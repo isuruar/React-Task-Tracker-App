@@ -1,6 +1,7 @@
 # React-Task-Tracker-App
 
-Usage
+<h2>Usage</h2>
+
 Install dependencies
 
 npm install
