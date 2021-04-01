@@ -4,15 +4,16 @@
 
 <h3>Install dependencies</h3>
 
-npm install
+<span>npm install</span>
 
-Run React dev server (http://localhost:3000)
+<h3>Run React dev server (http://localhost:3000)</h3>
 
 npm start
 
-Run the JSON server (http://localhost:5000)
+<h3>Run the JSON server (http://localhost:5000)</h3>
 
 npm run server
 
-To build for production
+<h3>To build for production</h3>
+
 npm run build
