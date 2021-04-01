@@ -4,7 +4,7 @@
 
 <h3>Install dependencies</h3>
 
-<span>npm install</span>
+<form>npm install</form>
 
 <h3>Run React dev server (http://localhost:3000)</h3>
 
