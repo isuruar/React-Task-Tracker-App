@@ -2,7 +2,7 @@
 
 <h2>Usage</h2>
 
-Install dependencies
+<h4>Install dependencies</h4>
 
 npm install
 
